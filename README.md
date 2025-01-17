@@ -1,1 +1,1 @@
-<div style="animation: rotate 2s linear infinite; display: inline-block;">   <p style="font-size: 24px;">Rotating Text</p> </div> <style>   @keyframes rotate {     0% { transform: rotate(0deg); }     100% { transform: rotate(360deg); }   } </style>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=specter0714)](https://git.io/streak-stats)
