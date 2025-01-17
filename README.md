@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -38,7 +38,7 @@
     }
     @keyframes rotating {
       50% {
-        transform: rotate(180deg * var(--direction)); /* 去掉 calc 函数，提高兼容性 */
+        transform: rotate(180deg * var(--direction)); 
       }
       100% {
         transform: rotate(360deg * var(--direction)); /* 去掉 calc 函数，提高兼容性 */
